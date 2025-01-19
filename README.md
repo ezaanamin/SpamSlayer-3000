@@ -121,7 +121,7 @@ SpamSlayer-3000/
 - `seaborn`
 - `nltk`
 - `xgboost`
-- `wordcloud`
+
 
 You can install all dependencies by running:
 ```bash
